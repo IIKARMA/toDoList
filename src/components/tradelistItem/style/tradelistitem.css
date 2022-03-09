@@ -1,0 +1,16 @@
+td > li {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+}
+#valuta {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}

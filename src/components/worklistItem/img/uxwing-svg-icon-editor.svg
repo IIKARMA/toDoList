@@ -1,0 +1,17 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="36.5" rx="37" id="svg_1" cy="166.40363" cx="255.999997" stroke-width="0.001" stroke="#FF0000" fill="#1ca45d"/>
+  <ellipse ry="36.5" rx="37" id="svg_2" cy="255.999996" cx="255.999992" stroke-width="0.001" stroke="#FF0000" fill="#1ca45d"/>
+  <ellipse ry="36.5" rx="37" id="svg_3" cy="79.40363" cx="255.999997" stroke-width="0.001" stroke="#FF0000" fill="#1ca45d"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="124.453125" x2="367" y1="120.453125" x1="143" stroke-opacity="null" stroke-width="0.001" stroke="#FF0000" fill="none"/>
+ </g>
+</svg>

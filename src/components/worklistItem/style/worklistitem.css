@@ -1,0 +1,35 @@
+img {
+  width: 25px;
+  height: 25px;
+}
+img:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+.workListItem {
+  width: 250px;
+  box-sizing: border-box;
+  padding: 15px 10px;
+  border: 2px solid rgb(155, 154, 154);
+  background-color: #333;
+  margin: 10px;
+  border-radius: 9px;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  -ms-border-radius: 9px;
+  -o-border-radius: 9px;
+  cursor: move;
+}
+.workListItem:active {
+  background-color: aqua;
+}
+.note {
+  font-size: 20px;
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  color: rgb(155, 154, 154);
+}
+.note > span {
+  margin-bottom: 15px;
+}

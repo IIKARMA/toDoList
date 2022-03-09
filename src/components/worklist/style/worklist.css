@@ -1,0 +1,13 @@
+.workList {
+  width: 80%;
+  height: 100vh;
+  background-color: #191919;
+}
+.listnone {
+  display: none;
+}
+.list {
+  display: flex;
+  z-index: 9;
+  background-color: aqua;
+}
